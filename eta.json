@@ -6,5 +6,7 @@
   "redirects": {},
   "staticDirs": [],
   "transformerDirs": [],
-  "viewDirs": []
+  "viewDirs": [],
+  "indexes": [],
+  "name": "cre-blank"
 }

@@ -1,12 +1,15 @@
 {
-  "controllerDirs": [],
   "css": {},
-  "lifecycleDirs": [],
-  "modelDirs": [],
   "redirects": {},
-  "staticDirs": [],
-  "transformerDirs": [],
-  "viewDirs": [],
+  "dirs": {
+    "controllers": [],
+    "models": [],
+    "staticFiles": [],
+    "views": [],
+    "lifecycleHandlers": [],
+    "requestTransformers": [],
+    "subpathHandlers": []
+  },
   "indexes": [],
   "name": "cre-module-template"
 }
